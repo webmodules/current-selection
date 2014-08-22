@@ -1,0 +1,31 @@
+{
+  "name": "current-selection",
+  "version": "0.0.0",
+  "description": "Returns a `Selection` instance from the current document selection",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "tsc --module commonjs --declaration index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/webmodules/current-selection.git"
+  },
+  "keywords": [
+    "document",
+    "window",
+    "selection",
+    "dom",
+    "browser",
+    "current"
+  ],
+  "author": "Nathan Rajlich <nathan@tootallnate.net> (http://n8.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webmodules/current-selection/issues"
+  },
+  "homepage": "https://github.com/webmodules/current-selection",
+  "dependencies": {
+    "get-window": "0.0.2"
+  }
+}
