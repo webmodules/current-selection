@@ -1,6 +1,6 @@
 {
   "name": "current-selection",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Returns a `Selection` instance from the current document selection",
   "main": "index.js",
   "scripts": {
