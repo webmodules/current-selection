@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/webmodules/current-selection",
   "dependencies": {
-    "get-window": "0.0.2"
+    "get-window": "1"
   }
 }
